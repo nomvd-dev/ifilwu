@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ifilwu/static/css/main.4c1e166a.css",
+    "main.js": "/ifilwu/static/js/main.dbaa9d19.js",
+    "static/media/y2mate.com - Bobby Helms  Jingle Bell Rock Lyrics_v240P.mp4": "/ifilwu/static/media/y2mate.com - Bobby Helms  Jingle Bell Rock Lyrics_v240P.cec782417b13809a33a3.mp4",
+    "static/media/y2mate.com - Bobby Helms  Jingle Bell Rock Lyrics.mp3": "/ifilwu/static/media/y2mate.com - Bobby Helms  Jingle Bell Rock Lyrics.e16e09c375ee5a08f955.mp3",
+    "index.html": "/ifilwu/index.html",
+    "main.4c1e166a.css.map": "/ifilwu/static/css/main.4c1e166a.css.map",
+    "main.dbaa9d19.js.map": "/ifilwu/static/js/main.dbaa9d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1e166a.css",
+    "static/js/main.dbaa9d19.js"
+  ]
+}
